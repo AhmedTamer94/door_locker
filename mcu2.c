@@ -4,7 +4,7 @@
  *  Created on: Jun 6, 2022
  *      Author: ahmed
  */
-#include"app.h"
+#include"app2.h"
 
 int main(void){
 	//initiate the application
