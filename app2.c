@@ -6,7 +6,7 @@
  */
 #include"external_eeprom.h"
 #include"uart.h"
-#include"app.h"
+#include"app2.h"
 #include"util/delay.h"
 #include"twi.h"
 #include"motor.h"
