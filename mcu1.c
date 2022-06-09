@@ -5,7 +5,7 @@
  *      Author: ahmed
  */
 
-#include"app.h"
+#include"app1.h"
 
 int main(void){
 //initiate the application
