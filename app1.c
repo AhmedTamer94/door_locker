@@ -8,7 +8,7 @@
 #include"lcd.h"
 #include"keypad.h"
 #include"uart.h"
-#include"app.h"
+#include"app1.h"
 #include"timer.h"
 #include"util/delay.h"
 //global variable for the timer counter
